@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Loga Prasanna"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/chola-flag.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Chennai, TamilNadu"
   email            :
