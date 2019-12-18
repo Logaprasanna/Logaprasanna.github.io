@@ -112,6 +112,8 @@ author:
   bio              : "Data Science Portfolio"
   location         : "Chennai, TamilNadu"
   email            :
+  github: "Logaprasanna"
+  linkedin: "Loga Prasanna Ramkumar"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -126,8 +128,8 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "Logaprasanna"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/Logaprasanna"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
