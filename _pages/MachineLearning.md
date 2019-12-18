@@ -5,10 +5,10 @@ title: "Machine Learning post by tags"
 author_profile: true
 header:
   image: "/images/horror-ai.png"
-  
+
 ---
 
-{% include base_path %}
+{% include absolute_url %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
